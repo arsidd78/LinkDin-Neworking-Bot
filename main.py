@@ -57,12 +57,12 @@ class Networking_Bot:
                 raise e
             try: # mainloop
                 for next_click in range(1,self.maximum_pages+1):
+                    number_of_pages+=1
                     try:
                         await page.wait_for_selector('xpath=//button[@class="artdeco-button artdeco-button--2 artdeco-button--secondary ember-view"]')
                         people_container = await page.locator('xpath=//button[@class="artdeco-button artdeco-button--2 artdeco-button--secondary ember-view"]').all()
                         await page.mouse.wheel(0,500)
                         next_btn = await page.locator('xpath=//button[@aria-label="Next"]').scroll_into_view_if_needed()
-                        number_of_pages += 1
                         # Main If:
                         if await page.locator('xpath=//button[@aria-label="Next"]').text_content() == '1':
                             logging.info('At first page')
@@ -82,7 +82,6 @@ class Networking_Bot:
                            for contact in people_container:
                                connect = await  contact.text_content()
                                next_btn = page.locator('xpath=//button[@aria-label="Next"]')
-                               number_of_pages+=1
                                if connect.strip().lower() == 'connect':
                                    try:
                                        await contact.click(timeout=30000)
@@ -108,25 +107,30 @@ class Networking_Bot:
                         await next_btn.click()
                         continue
             except Exception as e:
-                logging.error(f'Exception {e} occur when looping through people_containers')
+                logging.error(f'Exception {e} occur when looping through people_containers, restart the bot increase the time'
+                              f'if problem persist')
                 raise e
+
+
 
 
             finally:
                 logging.info(f'Total connects send were equal to {i}')
-                logging.info(f'Total pages on which connect requests were send are : {number_of_pages}')
+                logging.info(f'Total Pages: {number_of_pages} ')
                 await browser.close()
                 print('Completed .......')
 async def main():
-    username = 'arsidd78@gmail.com'
-    password = 'Iloc2000'
+    username = input('Type your email or username : ')
+    password = input('Type password : ')
+    searh = input('Search : ')
     app = Networking_Bot(
         username=username,
         password=password,
-        search='Fast Api',
+        search=searh,
         maximum_pages=4,
-        headless= True,
+        headless= False,
         sign_in_time=50000
     )
     await app.authenticate_linkedin()
 asyncio.run(main())
+
