@@ -1,7 +1,6 @@
 import asyncio
 import logging
 from playwright.async_api import async_playwright
-
 class Networking_Bot:
     def __init__(self, username, password, search, maximum_pages=5, headless= True, sign_in_time=30000):
         self.url = 'https://www.linkedin.com/login'
@@ -17,7 +16,6 @@ class Networking_Bot:
             level=logging.INFO,
             format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
         )
-
     async def authenticate_linkedin(self):
         print('Initiated wait .............')
         async with async_playwright() as playwright:
@@ -110,10 +108,6 @@ class Networking_Bot:
                 logging.error(f'Exception {e} occur when looping through people_containers, restart the bot increase the time'
                               f'if problem persist')
                 raise e
-
-
-
-
             finally:
                 logging.info(f'Total connects send were equal to {i}')
                 logging.info(f'Total Pages: {number_of_pages} ')
@@ -133,4 +127,3 @@ async def main():
     )
     await app.authenticate_linkedin()
 asyncio.run(main())
-
