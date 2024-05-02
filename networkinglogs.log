@@ -1,0 +1,663 @@
+2024-04-27 13:59:51,228 - root - INFO - LinkedIn site loaded
+2024-04-27 13:59:58,927 - root - INFO - Sign in attempt
+2024-04-27 14:00:03,958 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-27 14:03:48,527 - root - INFO - LinkedIn site loaded
+2024-04-27 14:03:52,082 - root - INFO - Sign in attempt
+2024-04-27 14:03:57,098 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-27 14:04:40,435 - root - INFO - LinkedIn site loaded
+2024-04-27 14:04:43,578 - root - INFO - Sign in attempt
+2024-04-27 14:04:50,671 - root - INFO - Signed in successfully
+2024-04-27 14:16:34,690 - root - INFO - LinkedIn site loaded
+2024-04-27 14:16:38,314 - root - INFO - Sign in attempt
+2024-04-27 14:16:44,953 - root - INFO - Signed in successfully
+2024-04-27 14:18:09,162 - root - INFO - LinkedIn site loaded
+2024-04-27 14:18:12,309 - root - INFO - Sign in attempt
+2024-04-27 14:18:19,078 - root - INFO - Signed in successfully
+2024-04-27 14:18:19,699 - root - INFO - search query was sent
+2024-04-27 15:03:51,337 - root - INFO - LinkedIn site loaded
+2024-04-27 15:03:57,607 - root - INFO - Sign in attempt
+2024-04-27 15:04:05,547 - root - INFO - Signed in successfully
+2024-04-27 15:04:06,298 - root - INFO - search query was sent
+2024-04-27 15:04:13,958 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-27 15:09:41,523 - root - INFO - LinkedIn site loaded
+2024-04-27 15:09:50,824 - root - INFO - Sign in attempt
+2024-04-27 15:09:59,127 - root - INFO - Signed in successfully
+2024-04-27 15:10:00,267 - root - INFO - search query was sent
+2024-04-27 15:10:12,219 - root - INFO - Search Query was redirected to people category
+2024-04-27 15:10:12,660 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-27 15:11:39,911 - root - INFO - LinkedIn site loaded
+2024-04-27 15:11:46,799 - root - INFO - Sign in attempt
+2024-04-27 15:11:56,963 - root - INFO - Signed in successfully
+2024-04-27 15:12:01,680 - root - INFO - search query was sent
+2024-04-27 15:12:09,760 - root - INFO - Search Query was redirected to people category
+2024-04-27 15:12:10,432 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 14:12:52,319 - root - INFO - LinkedIn site loaded
+2024-04-28 14:13:07,132 - root - INFO - Sign in attempt
+2024-04-28 14:13:13,921 - root - INFO - Signed in successfully
+2024-04-28 14:13:15,291 - root - INFO - search query was sent
+2024-04-28 14:13:23,674 - root - INFO - Search Query was redirected to people category
+2024-04-28 14:13:23,916 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 14:14:15,626 - root - INFO - LinkedIn site loaded
+2024-04-28 14:14:20,056 - root - INFO - Sign in attempt
+2024-04-28 14:14:28,088 - root - INFO - Signed in successfully
+2024-04-28 14:14:29,294 - root - INFO - search query was sent
+2024-04-28 14:14:34,754 - root - INFO - Search Query was redirected to people category
+2024-04-28 14:16:48,652 - root - INFO - LinkedIn site loaded
+2024-04-28 14:16:53,146 - root - INFO - Sign in attempt
+2024-04-28 14:17:03,137 - root - INFO - Signed in successfully
+2024-04-28 14:17:04,548 - root - INFO - search query was sent
+2024-04-28 14:17:22,148 - root - INFO - Search Query was redirected to people category
+2024-04-28 14:17:52,476 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 14:23:27,023 - root - INFO - LinkedIn site loaded
+2024-04-28 14:23:32,218 - root - INFO - Sign in attempt
+2024-04-28 14:23:43,668 - root - INFO - Signed in successfully
+2024-04-28 14:23:45,180 - root - INFO - search query was sent
+2024-04-28 14:24:01,870 - root - INFO - Search Query was redirected to people category
+2024-04-28 14:24:28,514 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 15:19:19,082 - root - INFO - LinkedIn site loaded
+2024-04-28 15:19:26,725 - root - INFO - Sign in attempt
+2024-04-28 15:19:36,117 - root - INFO - Signed in successfully
+2024-04-28 15:19:37,518 - root - INFO - search query was sent
+2024-04-28 15:19:44,781 - root - INFO - Search Query was redirected to people category
+2024-04-28 15:20:18,969 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 15:32:00,183 - root - INFO - LinkedIn site loaded
+2024-04-28 15:32:04,819 - root - INFO - Sign in attempt
+2024-04-28 15:32:14,463 - root - INFO - Signed in successfully
+2024-04-28 15:32:16,698 - root - INFO - search query was sent
+2024-04-28 15:32:46,721 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 15:37:12,640 - root - INFO - LinkedIn site loaded
+2024-04-28 15:37:16,237 - root - INFO - Sign in attempt
+2024-04-28 15:37:25,822 - root - INFO - Signed in successfully
+2024-04-28 15:37:26,897 - root - INFO - search query was sent
+2024-04-28 15:37:43,630 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 15:40:54,688 - root - INFO - LinkedIn site loaded
+2024-04-28 15:40:59,429 - root - INFO - Sign in attempt
+2024-04-28 15:41:29,451 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 15:42:26,525 - root - INFO - LinkedIn site loaded
+2024-04-28 15:42:55,585 - root - INFO - LinkedIn site loaded
+2024-04-28 15:42:58,529 - root - INFO - Sign in attempt
+2024-04-28 15:43:08,369 - root - INFO - Signed in successfully
+2024-04-28 15:43:10,576 - root - INFO - search query was sent
+2024-04-28 15:43:17,958 - root - INFO - Search Query was redirected to people category
+2024-04-28 15:43:20,866 - root - INFO - These are total of available connect available : 45
+2024-04-28 15:43:50,900 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 15:45:53,429 - root - INFO - LinkedIn site loaded
+2024-04-28 15:45:57,822 - root - INFO - Sign in attempt
+2024-04-28 15:46:08,086 - root - INFO - Signed in successfully
+2024-04-28 15:46:10,150 - root - INFO - search query was sent
+2024-04-28 15:46:17,191 - root - INFO - Search Query was redirected to people category
+2024-04-28 15:46:19,381 - root - INFO - These are total of available connect available : 10
+2024-04-28 15:46:21,883 - root - INFO - Connect Button was clicked
+2024-04-28 15:46:39,220 - root - INFO - Connect Button was clicked
+2024-04-28 15:46:48,751 - root - INFO - Connect Button was clicked
+2024-04-28 15:46:49,133 - root - INFO - Connect Button was clicked
+2024-04-28 15:46:49,635 - root - INFO - Connect Button was clicked
+2024-04-28 15:46:50,065 - root - INFO - Connect Button was clicked
+2024-04-28 15:47:23,264 - root - ERROR - Invalid username or password. Retry with correct credentials.
+2024-04-28 19:22:49,207 - root - INFO - LinkedIn site loaded
+2024-04-28 19:23:32,040 - root - INFO - LinkedIn site loaded
+2024-04-28 19:23:47,728 - root - INFO - Sign in attempt
+2024-04-28 19:23:58,874 - root - INFO - Signed in successfully
+2024-04-28 19:23:59,670 - root - INFO - search query was sent
+2024-04-28 19:24:19,115 - root - INFO - Search Query was redirected to people category
+2024-04-28 19:24:22,085 - root - INFO - These are total of available connect available : 10
+2024-04-28 19:27:06,596 - root - INFO - LinkedIn site loaded
+2024-04-28 19:27:16,941 - root - INFO - Sign in attempt
+2024-04-28 19:27:26,270 - root - INFO - Signed in successfully
+2024-04-28 19:27:27,203 - root - INFO - search query was sent
+2024-04-28 19:27:40,559 - root - INFO - Search Query was redirected to people category
+2024-04-28 19:27:42,548 - root - INFO - These are total of available connect available : 10
+2024-04-28 19:27:42,549 - root - ERROR - Exception'coroutine' object has no attribute 'strip'occur when looping through people_containers
+2024-04-28 19:32:34,271 - root - INFO - LinkedIn site loaded
+2024-04-28 19:32:40,494 - root - INFO - Sign in attempt
+2024-04-28 19:32:48,238 - root - INFO - Signed in successfully
+2024-04-28 19:32:49,102 - root - INFO - search query was sent
+2024-04-28 19:32:57,691 - root - INFO - Search Query was redirected to people category
+2024-04-28 19:32:59,903 - root - INFO - These are total of available connect available : 10
+2024-04-28 19:33:45,488 - root - INFO - LinkedIn site loaded
+2024-04-28 19:33:56,855 - root - INFO - Sign in attempt
+2024-04-28 19:34:08,451 - root - INFO - Signed in successfully
+2024-04-28 19:34:09,263 - root - INFO - search query was sent
+2024-04-28 19:34:33,794 - root - INFO - Search Query was redirected to people category
+2024-04-28 19:34:36,050 - root - INFO - These are total of available connect available : 10
+2024-04-28 19:34:36,054 - root - ERROR - Exceptionobject str can't be used in 'await' expression occur when looping through people_containers
+2024-04-28 19:35:23,354 - root - INFO - LinkedIn site loaded
+2024-04-28 19:35:32,657 - root - INFO - Sign in attempt
+2024-04-28 19:35:53,886 - root - INFO - Signed in successfully
+2024-04-28 19:35:58,395 - root - INFO - search query was sent
+2024-04-28 19:36:09,053 - root - INFO - Search Query was redirected to people category
+2024-04-28 19:36:11,039 - root - INFO - These are total of available connect available : 10
+2024-04-28 19:36:11,656 - root - INFO - Connect Button was clicked
+2024-04-28 19:36:12,007 - root - INFO - Connect Button was clicked
+2024-04-28 19:42:22,540 - root - INFO - LinkedIn site loaded
+2024-04-28 19:42:27,457 - root - INFO - Sign in attempt
+2024-04-28 19:42:48,399 - root - INFO - Signed in successfully
+2024-04-28 19:42:54,644 - root - INFO - search query was sent
+2024-04-28 19:43:03,839 - root - INFO - Search Query was redirected to people category
+2024-04-28 19:43:14,244 - root - INFO - These are total of available connect available : 10
+2024-04-28 19:43:14,731 - root - INFO - Connect Button was clicked
+2024-04-28 19:43:15,424 - root - INFO - Connect Button was clicked
+2024-04-28 19:43:15,618 - root - INFO - Total connects send were equal to 2
+2024-04-28 19:44:23,946 - root - INFO - LinkedIn site loaded
+2024-04-28 19:44:29,903 - root - INFO - Sign in attempt
+2024-04-28 19:45:01,442 - root - INFO - Signed in successfully
+2024-04-28 19:45:02,269 - root - INFO - search query was sent
+2024-04-28 19:45:13,212 - root - INFO - Search Query was redirected to people category
+2024-04-28 19:45:16,056 - root - INFO - These are total of available connect available : 10
+2024-04-28 19:45:17,042 - root - INFO - Connect Button was clicked
+2024-04-28 19:45:17,697 - root - INFO - Connect Button was clicked
+2024-04-28 19:45:47,744 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-04-28 19:45:47,998 - root - INFO - Connect Button was clicked
+2024-04-28 19:45:48,573 - root - INFO - Connect Button was clicked
+2024-04-28 19:46:18,858 - root - ERROR - ExceptionTimeout 30000ms exceeded. occur when looping through people_containers
+2024-04-28 19:46:18,859 - root - INFO - Total connects send were equal to 4
+2024-04-28 20:18:56,478 - root - INFO - LinkedIn site loaded
+2024-04-28 20:19:03,887 - root - INFO - Sign in attempt
+2024-04-28 20:19:22,597 - root - INFO - Signed in successfully
+2024-04-28 20:19:24,823 - root - INFO - search query was sent
+2024-04-28 20:19:32,182 - root - INFO - Search Query was redirected to people category
+2024-04-28 20:19:36,258 - root - INFO - These are total of available connect available : 10
+2024-04-28 20:19:51,828 - root - ERROR - There was an error in locating elements Exception: object Locator can't be used in 'await' expression
+2024-04-28 20:20:51,122 - root - INFO - LinkedIn site loaded
+2024-04-28 20:20:56,486 - root - INFO - Sign in attempt
+2024-04-28 20:21:21,447 - root - INFO - Signed in successfully
+2024-04-28 20:21:22,340 - root - INFO - search query was sent
+2024-04-28 20:21:31,845 - root - INFO - Search Query was redirected to people category
+2024-04-28 20:21:34,127 - root - INFO - These are total of available connect available : 10
+2024-04-28 20:21:56,884 - root - INFO - Connect Button was clicked
+2024-04-28 20:21:57,646 - root - INFO - Connect Button was clicked
+2024-04-28 20:21:58,681 - root - INFO - Connect Button was clicked
+2024-04-28 20:21:59,256 - root - INFO - Connect Button was clicked
+2024-04-28 20:22:00,080 - root - INFO - Connect Button was clicked
+2024-04-28 20:22:31,081 - root - ERROR - ExceptionTimeout 30000ms exceeded. occur when looping through people_containers
+2024-04-28 20:22:31,082 - root - INFO - Total connects send were equal to 5
+2024-04-28 20:22:31,082 - root - INFO - Total pages on which connect requests were send are : 1
+2024-04-28 20:28:05,352 - root - INFO - LinkedIn site loaded
+2024-04-28 20:28:09,471 - root - INFO - Sign in attempt
+2024-04-28 20:28:27,512 - root - INFO - Signed in successfully
+2024-04-28 20:28:28,842 - root - INFO - search query was sent
+2024-04-28 20:28:35,136 - root - INFO - Search Query was redirected to people category
+2024-04-28 20:28:38,627 - root - INFO - These are total of available connect available : 10
+2024-04-28 20:29:08,642 - root - ERROR - There was an error in locating elements Exception: Timeout 30000ms exceeded.
+2024-04-28 20:34:40,077 - root - INFO - LinkedIn site loaded
+2024-04-28 20:34:43,870 - root - INFO - Sign in attempt
+2024-04-28 20:35:04,838 - root - INFO - Signed in successfully
+2024-04-28 20:35:05,277 - root - INFO - search query was sent
+2024-04-28 20:35:14,787 - root - INFO - Search Query was redirected to people category
+2024-04-28 20:35:19,231 - root - INFO - These are total of available connect available : 10
+2024-04-28 20:35:49,254 - root - ERROR - There was an error in locating elements Exception: Timeout 30000ms exceeded.
+2024-04-28 20:38:35,905 - root - INFO - LinkedIn site loaded
+2024-04-28 20:38:39,557 - root - INFO - Sign in attempt
+2024-04-28 20:38:59,723 - root - INFO - Signed in successfully
+2024-04-28 20:39:00,688 - root - INFO - search query was sent
+2024-04-29 13:10:20,809 - root - INFO - LinkedIn site loaded
+2024-04-29 13:10:52,035 - root - INFO - Sign in attempt
+2024-04-29 13:11:03,280 - root - INFO - Signed in successfully
+2024-04-29 13:11:03,857 - root - INFO - search query was sent
+2024-04-29 13:11:19,403 - root - INFO - Search Query was redirected to people category
+2024-04-29 13:11:32,979 - root - INFO - These are total of available connect available : 10
+2024-04-29 13:11:32,980 - root - ERROR - Exception'coroutine' object has no attribute 'click' occur when looping through people_containers
+2024-04-29 13:11:53,893 - root - INFO - Total connects send were equal to 0
+2024-04-29 13:11:53,893 - root - INFO - Total pages on which connect requests were send are : 0
+2024-04-29 13:13:50,636 - root - INFO - LinkedIn site loaded
+2024-04-29 13:13:53,904 - root - INFO - Sign in attempt
+2024-04-29 13:14:13,036 - root - INFO - Signed in successfully
+2024-04-29 13:14:13,417 - root - INFO - search query was sent
+2024-04-29 13:14:34,355 - root - INFO - Search Query was redirected to people category
+2024-04-29 13:14:39,827 - root - INFO - These are total of available connect available : 10
+2024-04-29 13:14:59,836 - root - ERROR - ExceptionTimeout 20000ms exceeded. occur when looping through people_containers
+2024-04-29 13:14:59,836 - root - INFO - Total connects send were equal to 0
+2024-04-29 13:14:59,837 - root - INFO - Total pages on which connect requests were send are : 0
+2024-04-29 13:29:53,894 - root - INFO - LinkedIn site loaded
+2024-04-29 13:29:56,710 - root - INFO - Sign in attempt
+2024-04-29 13:30:26,723 - root - ERROR - Invalid username or password. The reason for this exception could be the wrong credential or some sort of human authentication try using window mode and increasing wait so that you can pass authentication.
+2024-04-29 13:32:26,342 - root - INFO - LinkedIn site loaded
+2024-04-29 13:32:32,338 - root - INFO - Sign in attempt
+2024-04-29 13:32:49,441 - root - INFO - Signed in successfully
+2024-04-29 13:32:49,896 - root - INFO - search query was sent
+2024-04-29 13:32:57,608 - root - INFO - Search Query was redirected to people category
+2024-04-29 13:32:59,953 - root - INFO - These are total of available connect available : 10
+2024-04-29 13:33:00,101 - root - ERROR - Exception object Locator can't be used in 'await' expression occur when looping through people_containers
+2024-04-29 13:33:00,102 - root - INFO - Total connects send were equal to 0
+2024-04-29 13:33:00,102 - root - INFO - Total pages on which connect requests were send are : 0
+2024-04-29 13:34:39,411 - root - INFO - LinkedIn site loaded
+2024-04-29 13:34:42,075 - root - INFO - Sign in attempt
+2024-04-29 13:35:32,106 - root - ERROR - Invalid username or password. The reason for this exception could be the wrong credential or some sort of human authentication try using window mode and increasing wait so that you can pass authentication.
+2024-04-29 13:37:17,359 - root - INFO - LinkedIn site loaded
+2024-04-29 13:37:19,757 - root - INFO - Sign in attempt
+2024-04-29 13:38:38,725 - root - ERROR - Invalid username or password. The reason for this exception could be the wrong credential or some sort of human authentication try using window mode and increasing wait so that you can pass authentication.
+2024-04-30 13:10:22,624 - root - INFO - LinkedIn site loaded
+2024-04-30 13:10:28,699 - root - INFO - Sign in attempt
+2024-04-30 13:10:36,278 - root - INFO - Signed in successfully
+2024-04-30 13:10:37,104 - root - INFO - search query was sent
+2024-04-30 13:10:42,902 - root - INFO - Search Query was redirected to people category
+2024-04-30 13:10:44,666 - root - INFO - These are total of available connect available : 10
+2024-04-30 13:11:04,556 - root - INFO - Connect Button was clicked
+2024-04-30 13:11:04,790 - root - INFO - Connect Button was clicked
+2024-04-30 13:11:05,067 - root - INFO - Connect Button was clicked
+2024-04-30 13:11:05,390 - root - INFO - Connect Button was clicked
+2024-04-30 13:11:06,074 - root - INFO - Connect Button was clicked
+2024-04-30 13:11:36,237 - root - ERROR - Exception Timeout 30000ms exceeded. occur when looping through people_containers
+2024-04-30 13:11:36,237 - root - INFO - Total connects send were equal to 5
+2024-04-30 13:11:36,237 - root - INFO - Total pages on which connect requests were send are : 1
+2024-04-30 13:33:21,895 - root - INFO - LinkedIn site loaded
+2024-04-30 13:33:34,918 - root - INFO - Sign in attempt
+2024-04-30 13:33:43,708 - root - INFO - Signed in successfully
+2024-04-30 13:33:44,546 - root - INFO - search query was sent
+2024-04-30 13:33:51,633 - root - INFO - Search Query was redirected to people category
+2024-04-30 13:33:54,522 - root - INFO - These are total of available connect available : 10
+2024-04-30 13:33:55,749 - root - INFO - Connect Button was clicked
+2024-04-30 13:33:56,267 - root - INFO - Connect Button was clicked
+2024-04-30 13:33:56,829 - root - INFO - Connect Button was clicked
+2024-04-30 13:33:59,773 - root - INFO - Connect Button was clicked
+2024-04-30 13:34:00,397 - root - INFO - Connect Button was clicked
+2024-04-30 13:34:30,970 - root - ERROR - Exception Timeout 30000ms exceeded. occur when looping through people_containers
+2024-04-30 13:34:30,971 - root - INFO - Total connects send were equal to 5
+2024-04-30 13:34:30,971 - root - INFO - Total pages on which connect requests were send are : 1
+2024-04-30 13:44:00,766 - root - INFO - LinkedIn site loaded
+2024-04-30 13:44:05,006 - root - INFO - Sign in attempt
+2024-04-30 13:44:14,389 - root - INFO - Signed in successfully
+2024-04-30 13:44:15,854 - root - INFO - search query was sent
+2024-04-30 13:44:23,411 - root - INFO - Search Query was redirected to people category
+2024-04-30 13:44:26,005 - root - INFO - These are total of available connect available : 10
+2024-04-30 13:44:26,435 - root - INFO - Connect Button was clicked
+2024-04-30 13:44:27,653 - root - INFO - Connect Button was clicked
+2024-04-30 13:44:31,036 - root - INFO - Connect Button was clicked
+2024-04-30 13:44:31,903 - root - INFO - Connect Button was clicked
+2024-04-30 13:44:32,630 - root - INFO - Connect Button was clicked
+2024-04-30 13:45:03,156 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-04-30 13:45:28,508 - root - INFO - Connect Button was clicked
+2024-04-30 13:45:31,429 - root - INFO - Connect Button was clicked
+2024-04-30 13:45:34,832 - root - INFO - Connect Button was clicked
+2024-04-30 13:45:37,484 - root - INFO - Connect Button was clicked
+2024-04-30 13:45:38,050 - root - INFO - Connect Button was clicked
+2024-04-30 13:45:38,639 - root - INFO - Connect Button was clicked
+2024-04-30 13:45:39,642 - root - INFO - Connect Button was clicked
+2024-04-30 13:45:42,513 - root - INFO - Connect Button was clicked
+2024-04-30 13:46:12,988 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-04-30 13:46:12,989 - root - INFO - Total connects send were equal to 13
+2024-04-30 13:46:12,989 - root - INFO - Total pages on which connect requests were send are : 4
+2024-04-30 14:02:22,917 - root - INFO - LinkedIn site loaded
+2024-04-30 14:02:26,348 - root - INFO - Sign in attempt
+2024-04-30 14:02:35,617 - root - INFO - Signed in successfully
+2024-04-30 14:02:36,919 - root - INFO - search query was sent
+2024-04-30 14:02:43,907 - root - INFO - Search Query was redirected to people category
+2024-04-30 14:02:46,390 - root - INFO - These are total of available connect available : 10
+2024-04-30 14:02:47,191 - root - INFO - Total connects send were equal to 0
+2024-04-30 14:02:47,192 - root - INFO - Total pages on which connect requests were send are : 4
+2024-04-30 14:03:49,180 - root - INFO - LinkedIn site loaded
+2024-04-30 14:03:52,291 - root - INFO - Sign in attempt
+2024-04-30 14:04:03,377 - root - INFO - Signed in successfully
+2024-04-30 14:04:04,472 - root - INFO - search query was sent
+2024-04-30 14:04:10,715 - root - INFO - Search Query was redirected to people category
+2024-04-30 14:04:12,987 - root - INFO - These are total of available connect available : 10
+2024-04-30 14:04:13,506 - root - INFO - Connect Button was clicked
+2024-04-30 14:04:14,184 - root - INFO - Connect Button was clicked
+2024-04-30 14:04:14,881 - root - INFO - Connect Button was clicked
+2024-04-30 14:04:19,250 - root - INFO - Connect Button was clicked
+2024-04-30 14:04:20,094 - root - INFO - Connect Button was clicked
+2024-04-30 14:04:50,672 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-04-30 14:05:20,974 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-04-30 14:05:51,115 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-04-30 14:05:51,115 - root - INFO - Total connects send were equal to 5
+2024-04-30 14:05:51,116 - root - INFO - Total pages on which connect requests were send are : 4
+2024-04-30 14:07:23,996 - root - INFO - LinkedIn site loaded
+2024-04-30 14:07:26,002 - root - INFO - Sign in attempt
+2024-04-30 14:08:11,053 - root - INFO - Signed in successfully
+2024-04-30 14:08:12,049 - root - INFO - search query was sent
+2024-04-30 14:08:16,954 - root - INFO - Search Query was redirected to people category
+2024-04-30 14:08:19,004 - root - INFO - These are total of available connect available : 10
+2024-04-30 14:08:19,726 - root - INFO - Connect Button was clicked
+2024-04-30 14:08:32,760 - root - INFO - Connect Button was clicked
+2024-04-30 14:08:49,951 - root - INFO - Connect Button was clicked
+2024-04-30 14:08:50,959 - root - INFO - Connect Button was clicked
+2024-04-30 14:08:51,389 - root - INFO - Connect Button was clicked
+2024-04-30 14:08:51,878 - root - INFO - Connect Button was clicked
+2024-04-30 14:09:22,129 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-04-30 14:09:22,733 - root - INFO - Connect Button was clicked
+2024-04-30 14:09:52,802 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-04-30 14:10:22,838 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-04-30 14:10:23,213 - root - INFO - Connect Button was clicked
+2024-04-30 14:10:53,229 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-04-30 14:10:53,361 - root - INFO - Connect Button was clicked
+2024-04-30 14:11:04,852 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-04-30 14:11:04,872 - root - ERROR - Excepion Target page, context or browser has been closed occur in main loop
+2024-04-30 14:11:04,897 - root - ERROR - Exception Target page, context or browser has been closed occur when looping through people_containers
+2024-04-30 14:11:04,897 - root - INFO - Total connects send were equal to 9
+2024-04-30 14:11:04,897 - root - INFO - Total pages on which connect requests were send are : 3
+2024-05-01 12:17:54,656 - root - INFO - LinkedIn site loaded
+2024-05-01 12:19:17,248 - root - INFO - LinkedIn site loaded
+2024-05-01 12:27:37,300 - root - INFO - LinkedIn site loaded
+2024-05-01 12:32:07,203 - root - INFO - LinkedIn site loaded
+2024-05-01 12:33:32,555 - root - INFO - LinkedIn site loaded
+2024-05-01 12:33:34,057 - root - INFO - Sign in attempt
+2024-05-01 12:33:52,121 - root - INFO - Signed in successfully
+2024-05-01 12:34:13,401 - root - INFO - search query was sent
+2024-05-01 12:34:19,577 - root - INFO - Search Query was redirected to people category
+2024-05-01 12:34:21,216 - root - INFO - These are total of available connect available : 3
+2024-05-01 12:34:29,658 - root - INFO - Total connects send were equal to 0
+2024-05-01 12:34:29,659 - root - INFO - Total pages on which connect requests were send are : 4
+2024-05-01 12:37:07,563 - root - INFO - LinkedIn site loaded
+2024-05-01 12:37:09,392 - root - INFO - Sign in attempt
+2024-05-01 12:37:15,686 - root - INFO - Signed in successfully
+2024-05-01 12:37:16,991 - root - INFO - search query was sent
+2024-05-01 12:37:21,447 - root - INFO - Search Query was redirected to people category
+2024-05-01 12:37:23,782 - root - INFO - These are total of available connect available : 10
+2024-05-01 12:37:24,204 - root - INFO - Connect Button was clicked
+2024-05-01 12:37:54,346 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-05-01 12:37:54,457 - root - INFO - Connect Button was clicked
+2024-05-01 12:38:24,626 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-05-01 12:38:24,729 - root - INFO - Connect Button was clicked
+2024-05-01 12:38:32,518 - root - INFO - Connect Button was clicked
+2024-05-01 12:38:33,044 - root - INFO - Connect Button was clicked
+2024-05-01 12:38:34,050 - root - INFO - Connect Button was clicked
+2024-05-01 12:38:34,489 - root - INFO - Connect Button was clicked
+2024-05-01 12:39:04,501 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-05-01 12:39:34,530 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 12:40:18,605 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 12:40:20,897 - root - INFO - Connect Button was clicked
+2024-05-01 12:40:21,221 - root - INFO - Connect Button was clicked
+2024-05-01 12:40:21,678 - root - INFO - Connect Button was clicked
+2024-05-01 12:40:51,954 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 12:40:52,122 - root - INFO - Total connects send were equal to 10
+2024-05-01 12:40:52,122 - root - INFO - Total pages on which connect requests were send are : 3
+2024-05-01 12:45:37,998 - root - INFO - LinkedIn site loaded
+2024-05-01 12:45:39,807 - root - INFO - Sign in attempt
+2024-05-01 12:45:45,788 - root - INFO - Signed in successfully
+2024-05-01 12:45:47,498 - root - INFO - search query was sent
+2024-05-01 12:45:52,752 - root - INFO - Search Query was redirected to people category
+2024-05-01 12:45:57,058 - root - INFO - These are total of available connect available : 10
+2024-05-01 12:45:58,194 - root - INFO - Connect Button was clicked
+2024-05-01 12:45:58,659 - root - INFO - Connect Button was clicked
+2024-05-01 12:45:59,117 - root - INFO - Connect Button was clicked
+2024-05-01 12:45:59,730 - root - INFO - Connect Button was clicked
+2024-05-01 12:46:00,139 - root - INFO - Connect Button was clicked
+2024-05-01 12:46:30,355 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 12:46:30,638 - root - INFO - Connect Button was clicked
+2024-05-01 12:47:00,933 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 12:47:31,086 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 12:48:01,264 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 12:48:01,328 - root - INFO - Total connects send were equal to 6
+2024-05-01 12:48:01,329 - root - INFO - Total pages on which connect requests were send are : 4
+2024-05-01 21:14:35,808 - root - INFO - LinkedIn site loaded
+2024-05-01 21:14:37,575 - root - INFO - Sign in attempt
+2024-05-01 21:14:43,409 - root - INFO - Signed in successfully
+2024-05-01 21:14:46,481 - root - INFO - search query was sent
+2024-05-01 21:14:51,035 - root - INFO - Search Query was redirected to people category
+2024-05-01 21:14:53,167 - root - INFO - These are total of available connect available : 10
+2024-05-01 21:14:53,842 - root - INFO - Connect Button was clicked
+2024-05-01 21:14:56,601 - root - INFO - Connect Button was clicked
+2024-05-01 21:14:57,002 - root - INFO - Connect Button was clicked
+2024-05-01 21:14:57,493 - root - INFO - Connect Button was clicked
+2024-05-01 21:14:57,859 - root - INFO - Connect Button was clicked
+2024-05-01 21:14:58,304 - root - INFO - Connect Button was clicked
+2024-05-01 21:14:58,672 - root - INFO - Connect Button was clicked
+2024-05-01 21:15:28,945 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 21:15:29,169 - root - INFO - Connect Button was clicked
+2024-05-01 21:15:29,575 - root - INFO - Connect Button was clicked
+2024-05-01 21:15:29,936 - root - INFO - Connect Button was clicked
+2024-05-01 21:16:00,202 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 21:16:30,334 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 21:16:30,520 - root - INFO - Total connects send were equal to 10
+2024-05-01 21:16:30,520 - root - INFO - Total pages on which connect requests were send are : 4
+2024-05-01 21:20:08,164 - root - INFO - LinkedIn site loaded
+2024-05-01 21:20:09,440 - root - INFO - Sign in attempt
+2024-05-01 21:20:14,722 - root - INFO - Signed in successfully
+2024-05-01 21:20:15,253 - root - INFO - search query was sent
+2024-05-01 21:20:23,504 - root - INFO - Search Query was redirected to people category
+2024-05-01 21:20:25,663 - root - INFO - These are total of available connect available : 10
+2024-05-01 21:20:26,136 - root - INFO - Connect Button was clicked
+2024-05-01 21:20:28,443 - root - INFO - Total connects send were equal to 1
+2024-05-01 21:20:28,443 - root - INFO - Total pages on which connect requests were send are : 4
+2024-05-01 21:22:15,003 - root - INFO - LinkedIn site loaded
+2024-05-01 21:22:16,219 - root - INFO - Sign in attempt
+2024-05-01 21:22:21,600 - root - INFO - Signed in successfully
+2024-05-01 21:22:22,115 - root - INFO - search query was sent
+2024-05-01 21:22:31,175 - root - INFO - Search Query was redirected to people category
+2024-05-01 21:22:32,933 - root - INFO - These are total of available connect available : 10
+2024-05-01 21:22:33,709 - root - INFO - Total connects send were equal to 0
+2024-05-01 21:22:33,710 - root - INFO - Total pages on which connect requests were send are : 4
+2024-05-01 21:23:59,464 - root - INFO - LinkedIn site loaded
+2024-05-01 21:24:01,078 - root - INFO - Sign in attempt
+2024-05-01 21:24:08,536 - root - INFO - Signed in successfully
+2024-05-01 21:24:09,450 - root - INFO - search query was sent
+2024-05-01 21:24:18,206 - root - INFO - Search Query was redirected to people category
+2024-05-01 21:24:19,832 - root - INFO - These are total of available connect available : 10
+2024-05-01 21:24:20,741 - root - INFO - Total connects send were equal to 0
+2024-05-01 21:24:20,742 - root - INFO - Total pages on which connect requests were send are : 4
+2024-05-01 21:58:43,104 - root - INFO - LinkedIn site loaded
+2024-05-01 21:58:45,024 - root - INFO - Sign in attempt
+2024-05-01 21:58:53,419 - root - INFO - Signed in successfully
+2024-05-01 21:58:54,255 - root - INFO - search query was sent
+2024-05-01 21:59:00,798 - root - INFO - Search Query was redirected to people category
+2024-05-01 21:59:03,371 - root - ERROR - Excepion DOMException: Failed to execute 'evaluate' on 'Document': The string '//button[@aria-label="Next"]]' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:41:25)
+    at InjectedScript._queryEngineAll (<anonymous>:4949:49)
+    at InjectedScript.querySelectorAll (<anonymous>:4936:30)
+    at InjectedScript.querySelector (<anonymous>:4875:25)
+    at eval (eval at evaluate (:226:30), <anonymous>:9:36)
+    at UtilityScript.evaluate (<anonymous>:228:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44) occur in main loop
+2024-05-01 21:59:03,826 - root - ERROR - Excepion DOMException: Failed to execute 'evaluate' on 'Document': The string '//button[@aria-label="Next"]]' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:41:25)
+    at InjectedScript._queryEngineAll (<anonymous>:4949:49)
+    at InjectedScript.querySelectorAll (<anonymous>:4936:30)
+    at InjectedScript.querySelector (<anonymous>:4875:25)
+    at eval (eval at evaluate (:226:30), <anonymous>:9:36)
+    at UtilityScript.evaluate (<anonymous>:228:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44) occur in main loop
+2024-05-01 21:59:04,005 - root - ERROR - Excepion DOMException: Failed to execute 'evaluate' on 'Document': The string '//button[@aria-label="Next"]]' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:41:25)
+    at InjectedScript._queryEngineAll (<anonymous>:4949:49)
+    at InjectedScript.querySelectorAll (<anonymous>:4936:30)
+    at InjectedScript.querySelector (<anonymous>:4875:25)
+    at eval (eval at evaluate (:226:30), <anonymous>:9:36)
+    at UtilityScript.evaluate (<anonymous>:228:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44) occur in main loop
+2024-05-01 21:59:04,170 - root - ERROR - Excepion DOMException: Failed to execute 'evaluate' on 'Document': The string '//button[@aria-label="Next"]]' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:41:25)
+    at InjectedScript._queryEngineAll (<anonymous>:4949:49)
+    at InjectedScript.querySelectorAll (<anonymous>:4936:30)
+    at InjectedScript.querySelector (<anonymous>:4875:25)
+    at eval (eval at evaluate (:226:30), <anonymous>:9:36)
+    at UtilityScript.evaluate (<anonymous>:228:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44) occur in main loop
+2024-05-01 21:59:04,239 - root - INFO - Total connects send were equal to 0
+2024-05-01 21:59:04,239 - root - INFO - Total pages on which connect requests were send are : 0
+2024-05-01 22:04:40,863 - root - INFO - LinkedIn site loaded
+2024-05-01 22:04:42,434 - root - INFO - Sign in attempt
+2024-05-01 22:04:54,075 - root - INFO - Signed in successfully
+2024-05-01 22:04:55,625 - root - INFO - search query was sent
+2024-05-01 22:05:07,832 - root - INFO - Search Query was redirected to people category
+2024-05-01 22:05:10,622 - root - ERROR - Excepion DOMException: Failed to execute 'evaluate' on 'Document': The string '//button[@aria-label="Next"]]' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:41:25)
+    at InjectedScript._queryEngineAll (<anonymous>:4949:49)
+    at InjectedScript.querySelectorAll (<anonymous>:4936:30)
+    at InjectedScript.querySelector (<anonymous>:4875:25)
+    at eval (eval at evaluate (:226:30), <anonymous>:9:36)
+    at UtilityScript.evaluate (<anonymous>:228:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44) occur in main loop
+2024-05-01 22:05:10,644 - root - ERROR - Exception DOMException: Failed to execute 'evaluate' on 'Document': The string '//button[@aria-label="Next"]]' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:41:25)
+    at InjectedScript._queryEngineAll (<anonymous>:4949:49)
+    at InjectedScript.querySelectorAll (<anonymous>:4936:30)
+    at eval (eval at evaluate (:226:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:228:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44) occur when looping through people_containers
+2024-05-01 22:05:10,645 - root - INFO - Total connects send were equal to 0
+2024-05-01 22:05:10,645 - root - INFO - Total pages on which connect requests were send are : 0
+2024-05-01 22:07:59,441 - root - INFO - LinkedIn site loaded
+2024-05-01 22:08:02,314 - root - INFO - Sign in attempt
+2024-05-01 22:08:31,754 - root - INFO - Signed in successfully
+2024-05-01 22:08:33,874 - root - INFO - search query was sent
+2024-05-01 22:08:51,698 - root - INFO - Search Query was redirected to people category
+2024-05-01 22:09:08,480 - root - INFO - Total connects send were equal to 0
+2024-05-01 22:09:08,481 - root - INFO - Total pages on which connect requests were send are : 0
+2024-05-01 22:10:32,046 - root - INFO - LinkedIn site loaded
+2024-05-01 22:10:34,684 - root - INFO - Sign in attempt
+2024-05-01 22:11:01,990 - root - INFO - Signed in successfully
+2024-05-01 22:11:03,046 - root - INFO - search query was sent
+2024-05-01 22:11:11,715 - root - INFO - Search Query was redirected to people category
+2024-05-01 22:11:33,174 - root - INFO - Connect Button was clicked
+2024-05-01 22:11:38,592 - root - INFO - Connect Button was clicked
+2024-05-01 22:11:45,177 - root - INFO - Connect Button was clicked
+2024-05-01 22:11:48,864 - root - INFO - Connect Button was clicked
+2024-05-01 22:11:52,621 - root - INFO - Connect Button was clicked
+2024-05-01 22:11:56,942 - root - INFO - Connect Button was clicked
+2024-05-01 22:12:00,493 - root - INFO - Connect Button was clicked
+2024-05-01 22:12:10,878 - root - INFO - Connect Button was clicked
+2024-05-01 22:12:14,571 - root - INFO - Connect Button was clicked
+2024-05-01 22:12:23,895 - root - INFO - Connect Button was clicked
+2024-05-01 22:12:39,891 - root - INFO - Connect Button was clicked
+2024-05-01 22:12:43,712 - root - INFO - Connect Button was clicked
+2024-05-01 22:12:56,191 - root - INFO - Connect Button was clicked
+2024-05-01 22:13:11,268 - root - INFO - Connect Button was clicked
+2024-05-01 22:13:15,098 - root - INFO - Connect Button was clicked
+2024-05-01 22:13:23,459 - root - INFO - Connect Button was clicked
+2024-05-01 22:13:31,477 - root - INFO - Connect Button was clicked
+2024-05-01 22:14:01,501 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-05-01 22:14:31,573 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 22:15:04,934 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 22:15:15,206 - root - INFO - Total connects send were equal to 17
+2024-05-01 22:15:15,207 - root - INFO - Total pages on which connect requests were send are : 17
+2024-05-01 22:23:26,633 - root - INFO - LinkedIn site loaded
+2024-05-01 22:23:29,789 - root - INFO - Sign in attempt
+2024-05-01 22:23:56,167 - root - INFO - Signed in successfully
+2024-05-01 22:23:56,748 - root - INFO - search query was sent
+2024-05-01 22:24:07,911 - root - INFO - Search Query was redirected to people category
+2024-05-01 22:25:01,461 - root - INFO - Connect Button was clicked
+2024-05-01 22:25:08,839 - root - INFO - Connect Button was clicked
+2024-05-01 22:25:50,661 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-01 22:25:56,789 - root - ERROR - Excepion Target page, context or browser has been closed occur in main loop
+2024-05-01 22:25:56,804 - root - ERROR - Exception Target page, context or browser has been closed occur when looping through people_containers
+2024-05-01 22:25:56,805 - root - INFO - Total connects send were equal to 2
+2024-05-01 22:25:56,805 - root - INFO - Total pages on which connect requests were send are : 7
+2024-05-02 11:01:27,711 - root - INFO - LinkedIn site loaded
+2024-05-02 11:01:29,620 - root - INFO - Sign in attempt
+2024-05-02 11:01:37,152 - root - INFO - Signed in successfully
+2024-05-02 11:01:38,293 - root - INFO - search query was sent
+2024-05-02 11:01:45,916 - root - INFO - Search Query was redirected to people category
+2024-05-02 11:02:18,218 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 11:02:43,267 - root - INFO - Connect Button was clicked
+2024-05-02 11:02:49,282 - root - INFO - Connect Button was clicked
+2024-05-02 11:02:55,174 - root - INFO - Connect Button was clicked
+2024-05-02 11:03:00,989 - root - INFO - Connect Button was clicked
+2024-05-02 11:03:06,084 - root - INFO - Connect Button was clicked
+2024-05-02 11:03:18,539 - root - INFO - Connect Button was clicked
+2024-05-02 11:03:21,112 - root - INFO - Connect Button was clicked
+2024-05-02 11:03:28,126 - root - INFO - Connect Button was clicked
+2024-05-02 11:03:30,701 - root - INFO - Connect Button was clicked
+2024-05-02 11:03:36,441 - root - INFO - Connect Button was clicked
+2024-05-02 11:03:41,008 - root - ERROR - Excepion Target page, context or browser has been closed occur in main loop
+2024-05-02 11:03:41,035 - root - ERROR - Exception Target page, context or browser has been closed occur when looping through people_containers
+2024-05-02 11:03:41,035 - root - INFO - Total connects send were equal to 10
+2024-05-02 11:03:41,035 - root - INFO - Total pages on which connect requests were send are : 17
+2024-05-02 11:16:33,174 - root - INFO - LinkedIn site loaded
+2024-05-02 11:16:34,945 - root - INFO - Sign in attempt
+2024-05-02 11:16:42,424 - root - INFO - Signed in successfully
+2024-05-02 11:16:43,199 - root - INFO - search query was sent
+2024-05-02 11:16:50,469 - root - INFO - Search Query was redirected to people category
+2024-05-02 11:17:22,630 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 11:17:52,643 - root - ERROR - Exception Timeout 30000ms exceeded. occur when looping through people_containers
+2024-05-02 11:17:52,644 - root - INFO - Total connects send were equal to 0
+2024-05-02 11:17:52,644 - root - INFO - Total pages on which connect requests were send are : 1
+2024-05-02 11:37:02,828 - root - INFO - LinkedIn site loaded
+2024-05-02 11:37:04,524 - root - INFO - Sign in attempt
+2024-05-02 11:37:18,457 - root - INFO - Signed in successfully
+2024-05-02 11:37:22,440 - root - INFO - search query was sent
+2024-05-02 11:37:31,861 - root - INFO - Search Query was redirected to people category
+2024-05-02 11:38:04,501 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 11:38:04,501 - root - ERROR - Exception 'coroutine' object has no attribute 'click' occur when looping through people_containers
+2024-05-02 11:38:04,502 - root - INFO - Total connects send were equal to 0
+2024-05-02 11:38:04,502 - root - INFO - Total pages on which connect requests were send are : 1
+2024-05-02 11:42:07,749 - root - INFO - LinkedIn site loaded
+2024-05-02 11:42:10,828 - root - INFO - Sign in attempt
+2024-05-02 11:42:31,478 - root - INFO - Signed in successfully
+2024-05-02 11:42:38,570 - root - INFO - search query was sent
+2024-05-02 11:42:48,616 - root - INFO - Search Query was redirected to people category
+2024-05-02 11:43:21,918 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 11:43:21,949 - root - ERROR - Exception cannot access local variable 'next_btn' where it is not associated with a value occur when looping through people_containers
+2024-05-02 11:43:21,949 - root - INFO - Total connects send were equal to 0
+2024-05-02 11:43:21,950 - root - INFO - Total pages on which connect requests were send are : 0
+2024-05-02 11:48:09,231 - root - INFO - LinkedIn site loaded
+2024-05-02 11:48:10,922 - root - INFO - Sign in attempt
+2024-05-02 11:48:19,480 - root - INFO - Signed in successfully
+2024-05-02 11:48:20,781 - root - INFO - search query was sent
+2024-05-02 11:48:27,327 - root - INFO - Search Query was redirected to people category
+2024-05-02 11:48:59,569 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 11:49:29,590 - root - ERROR - Exception Timeout 30000ms exceeded. occur when looping through people_containers
+2024-05-02 11:49:29,591 - root - INFO - Total connects send were equal to 0
+2024-05-02 11:49:29,591 - root - INFO - Total pages on which connect requests were send are : 0
+2024-05-02 11:53:22,068 - root - INFO - LinkedIn site loaded
+2024-05-02 11:53:23,925 - root - INFO - Sign in attempt
+2024-05-02 11:53:30,419 - root - INFO - Signed in successfully
+2024-05-02 11:53:31,836 - root - INFO - search query was sent
+2024-05-02 11:53:38,122 - root - INFO - Search Query was redirected to people category
+2024-05-02 11:54:10,436 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 11:54:40,459 - root - ERROR - Exception Timeout 30000ms exceeded. occur when looping through people_containers
+2024-05-02 11:54:40,460 - root - INFO - Total connects send were equal to 0
+2024-05-02 11:54:40,460 - root - INFO - Total pages on which connect requests were send are : 0
+2024-05-02 12:48:18,166 - root - INFO - LinkedIn site loaded
+2024-05-02 12:48:20,401 - root - INFO - Sign in attempt
+2024-05-02 12:49:10,418 - root - ERROR - Invalid username or password. The reason for this exception could be the wrong credential or some sort of human authentication try using window mode and increasing wait so that you can pass authentication.
+2024-05-02 12:50:06,866 - root - INFO - LinkedIn site loaded
+2024-05-02 12:50:07,544 - root - INFO - Sign in attempt
+2024-05-02 12:50:57,563 - root - ERROR - Invalid username or password. The reason for this exception could be the wrong credential or some sort of human authentication try using window mode and increasing wait so that you can pass authentication.
+2024-05-02 12:51:32,262 - root - INFO - LinkedIn site loaded
+2024-05-02 12:51:33,322 - root - INFO - Sign in attempt
+2024-05-02 12:52:05,459 - root - INFO - Signed in successfully
+2024-05-02 12:52:08,134 - root - INFO - search query was sent
+2024-05-02 12:52:20,050 - root - INFO - Search Query was redirected to people category
+2024-05-02 12:52:52,547 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 12:53:19,905 - root - INFO - Connect Button was clicked
+2024-05-02 12:53:20,302 - root - INFO - Connect Button was clicked
+2024-05-02 12:53:20,703 - root - INFO - Connect Button was clicked
+2024-05-02 12:53:21,033 - root - INFO - Connect Button was clicked
+2024-05-02 12:53:21,449 - root - INFO - Connect Button was clicked
+2024-05-02 12:53:21,819 - root - INFO - Connect Button was clicked
+2024-05-02 12:53:51,983 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-05-02 12:54:22,006 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 12:54:24,845 - root - INFO - Connect Button was clicked
+2024-05-02 12:54:25,317 - root - INFO - Connect Button was clicked
+2024-05-02 12:54:25,668 - root - INFO - Connect Button was clicked
+2024-05-02 12:54:26,047 - root - INFO - Connect Button was clicked
+2024-05-02 12:54:26,435 - root - INFO - Connect Button was clicked
+2024-05-02 12:54:56,652 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 12:54:59,443 - root - INFO - Connect Button was clicked
+2024-05-02 12:54:59,730 - root - INFO - Connect Button was clicked
+2024-05-02 12:54:59,992 - root - INFO - Connect Button was clicked
+2024-05-02 12:55:00,338 - root - INFO - Connect Button was clicked
+2024-05-02 12:55:00,643 - root - INFO - Connect Button was clicked
+2024-05-02 12:55:00,979 - root - INFO - Connect Button was clicked
+2024-05-02 12:55:30,998 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-05-02 12:56:01,011 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 12:56:01,210 - root - INFO - Total connects send were equal to 17
+2024-05-02 12:56:01,211 - root - INFO - Total pages on which connect requests were send are : 23
+2024-05-02 13:00:23,875 - root - INFO - LinkedIn site loaded
+2024-05-02 13:00:25,429 - root - INFO - Sign in attempt
+2024-05-02 13:00:31,463 - root - INFO - Signed in successfully
+2024-05-02 13:00:32,090 - root - INFO - search query was sent
+2024-05-02 13:00:39,079 - root - INFO - Search Query was redirected to people category
+2024-05-02 13:00:41,564 - root - INFO - Connect Button was clicked
+2024-05-02 13:01:11,580 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-05-02 13:01:41,604 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 13:01:45,334 - root - INFO - Connect Button was clicked
+2024-05-02 13:01:45,579 - root - INFO - Connect Button was clicked
+2024-05-02 13:01:45,815 - root - INFO - Connect Button was clicked
+2024-05-02 13:01:46,061 - root - INFO - Connect Button was clicked
+2024-05-02 13:01:46,354 - root - INFO - Connect Button was clicked
+2024-05-02 13:01:46,635 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:16,767 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 13:02:19,746 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:19,987 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:20,196 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:20,480 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:23,188 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:23,415 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:23,703 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:24,005 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:24,326 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:24,580 - root - INFO - Connect Button was clicked
+2024-05-02 13:02:54,766 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-02 13:02:55,059 - root - INFO - Total connects send were equal to 17
+2024-05-02 13:02:55,059 - root - INFO - Total pages on which connect requests were send are : 1
