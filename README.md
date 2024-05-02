@@ -62,10 +62,10 @@ Check Logs: If errors occur, refer to networkinglogs.log for details.
 <article>
 <h3> python code: </h3>
 <p>  
-async def main():
-    username = input('Type your email or username : ')
-    password = input('Type password : ')
-    search = input('Search : ')
+    async def main():
+        username = input('Type your email or username : ')
+        password = input('Type password : ')
+        search = input('Search : ')
     
     bot = Networking_Bot(
         username=username,
@@ -76,8 +76,7 @@ async def main():
         sign_in_time=30000
     )
     await bot.authenticate_linkedin()
-
-asyncio.run(main())
+    asyncio.run(main())
 </p>
 </article>
 <h1>Considerations and Tips</h1>
