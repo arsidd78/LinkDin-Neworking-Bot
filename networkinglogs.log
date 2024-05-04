@@ -749,3 +749,235 @@
 2024-05-02 20:59:39,035 - root - INFO - Total connects send were equal to 16
 2024-05-02 20:59:39,035 - root - INFO - Total Pages: 4 
 2024-05-02 20:59:39,035 - root - INFO - Total pages on which connect requests were send are : 4
+2024-05-03 23:40:59,418 - root - INFO - LinkedIn site loaded
+2024-05-03 23:41:01,122 - root - INFO - Sign in attempt
+2024-05-03 23:41:08,856 - root - INFO - Signed in successfully
+2024-05-03 23:41:10,229 - root - INFO - search query was sent
+2024-05-03 23:41:20,076 - root - INFO - Search Query was redirected to people category
+2024-05-03 23:41:52,540 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-03 23:42:22,555 - root - ERROR - Exception Timeout 30000ms exceeded. occur when looping through people_containers, restart the bot increase the timeif problem persist
+2024-05-03 23:42:22,555 - root - INFO - Total connects send were equal to 0
+2024-05-03 23:42:22,555 - root - INFO - Total Pages: 1 
+2024-05-03 23:47:45,270 - root - INFO - LinkedIn site loaded
+2024-05-03 23:47:46,979 - root - INFO - Sign in attempt
+2024-05-03 23:47:54,496 - root - INFO - Signed in successfully
+2024-05-03 23:47:56,268 - root - INFO - search query was sent
+2024-05-03 23:48:02,019 - root - INFO - Search Query was redirected to people category
+2024-05-03 23:48:30,347 - root - INFO - Connect Button was clicked
+2024-05-03 23:48:31,078 - root - INFO - Connect Button was clicked
+2024-05-03 23:48:31,518 - root - INFO - Connect Button was clicked
+2024-05-03 23:48:31,974 - root - INFO - Connect Button was clicked
+2024-05-03 23:48:32,333 - root - INFO - Connect Button was clicked
+2024-05-03 23:48:32,666 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:02,967 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-03 23:49:05,727 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:06,054 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:06,530 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:06,999 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:07,282 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:37,485 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-03 23:49:40,301 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:40,665 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:41,103 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:42,119 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:42,602 - root - INFO - Connect Button was clicked
+2024-05-03 23:49:42,975 - root - INFO - Connect Button was clicked
+2024-05-03 23:50:13,292 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-03 23:50:23,877 - root - INFO - Connect Button was clicked
+2024-05-03 23:50:28,951 - root - INFO - Connect Button was clicked
+2024-05-03 23:50:36,054 - root - INFO - Connect Button was clicked
+2024-05-03 23:50:42,171 - root - INFO - Connect Button was clicked
+2024-05-03 23:51:16,168 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-03 23:51:39,686 - root - INFO - Connect Button was clicked
+2024-05-03 23:51:40,039 - root - INFO - Connect Button was clicked
+2024-05-03 23:51:40,447 - root - INFO - Connect Button was clicked
+2024-05-03 23:51:40,890 - root - INFO - Connect Button was clicked
+2024-05-03 23:52:11,072 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-03 23:52:11,253 - root - INFO - Total connects send were equal to 25
+2024-05-03 23:52:11,254 - root - INFO - Total Pages: 5 
+2024-05-04 00:45:48,170 - root - INFO - LinkedIn site loaded
+2024-05-04 00:45:49,624 - root - INFO - Sign in attempt
+2024-05-04 00:45:57,988 - root - INFO - Signed in successfully
+2024-05-04 00:45:58,887 - root - INFO - search query was sent
+2024-05-04 00:46:05,788 - root - INFO - Search Query was redirected to people category
+2024-05-04 00:46:36,375 - root - INFO - Connect Button was clicked
+2024-05-04 00:46:40,961 - root - INFO - Connect Button was clicked
+2024-05-04 00:46:58,704 - root - INFO - Connect Button was clicked
+2024-05-04 00:47:00,543 - root - INFO - Connect Button was clicked
+2024-05-04 00:47:30,881 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 00:47:35,789 - root - INFO - Connect Button was clicked
+2024-05-04 00:47:37,576 - root - INFO - Connect Button was clicked
+2024-05-04 00:47:39,334 - root - INFO - Connect Button was clicked
+2024-05-04 00:47:51,482 - root - ERROR - Excepion Target page, context or browser has been closed occur in main loop
+2024-05-04 00:47:51,502 - root - ERROR - Exception Target page, context or browser has been closed occur when looping through people_containers, restart the bot increase the timeif problem persist
+2024-05-04 00:47:51,503 - root - INFO - Total connects send were equal to 7
+2024-05-04 00:47:51,503 - root - INFO - Total Pages: 19 
+2024-05-04 00:49:57,383 - root - INFO - LinkedIn site loaded
+2024-05-04 00:49:58,829 - root - INFO - Sign in attempt
+2024-05-04 00:50:05,575 - root - INFO - Signed in successfully
+2024-05-04 00:50:06,767 - root - INFO - search query was sent
+2024-05-04 00:50:17,854 - root - INFO - Search Query was redirected to people category
+2024-05-04 00:50:48,804 - root - INFO - Connect Button was clicked
+2024-05-04 00:50:49,192 - root - INFO - Connect Button was clicked
+2024-05-04 00:50:49,490 - root - INFO - Connect Button was clicked
+2024-05-04 00:50:49,771 - root - INFO - Connect Button was clicked
+2024-05-04 00:50:50,168 - root - INFO - Connect Button was clicked
+2024-05-04 00:50:50,557 - root - INFO - Connect Button was clicked
+2024-05-04 00:51:20,688 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 00:51:25,886 - root - ERROR - Excepion Target page, context or browser has been closed occur in main loop
+2024-05-04 00:51:25,925 - root - ERROR - Exception Target page, context or browser has been closed occur when looping through people_containers, restart the bot increase the timeif problem persist
+2024-05-04 00:51:25,925 - root - INFO - Total connects send were equal to 6
+2024-05-04 00:51:25,926 - root - INFO - Total Pages: 2 
+2024-05-04 12:12:49,462 - root - INFO - LinkedIn site loaded
+2024-05-04 12:12:51,776 - root - INFO - Sign in attempt
+2024-05-04 12:12:59,574 - root - INFO - Signed in successfully
+2024-05-04 12:13:00,754 - root - INFO - search query was sent
+2024-05-04 12:13:16,440 - root - INFO - Search Query was redirected to people category
+2024-05-04 12:13:48,197 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:14:18,210 - root - ERROR - Exception: Timeout 30000ms exceeded. occur when looping through people_containers, restart the bot increase the timeif problem persist
+2024-05-04 12:14:18,210 - root - INFO - Total connects send were equal to 0
+2024-05-04 12:14:18,210 - root - INFO - Total Pages: 1 
+2024-05-04 12:16:50,780 - root - INFO - LinkedIn site loaded
+2024-05-04 12:16:52,210 - root - INFO - Sign in attempt
+2024-05-04 12:17:00,034 - root - INFO - Signed in successfully
+2024-05-04 12:17:00,936 - root - INFO - search query was sent
+2024-05-04 12:17:06,740 - root - INFO - Search Query was redirected to people category
+2024-05-04 12:17:38,133 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:17:49,912 - root - ERROR - Excepion object Locator can't be used in 'await' expression occur in main loop
+2024-05-04 12:17:53,426 - root - ERROR - Excepion object Locator can't be used in 'await' expression occur in main loop
+2024-05-04 12:17:57,394 - root - ERROR - Excepion object Locator can't be used in 'await' expression occur in main loop
+2024-05-04 12:18:00,358 - root - ERROR - Excepion object Locator can't be used in 'await' expression occur in main loop
+2024-05-04 12:18:00,494 - root - INFO - Total connects send were equal to 0
+2024-05-04 12:18:00,494 - root - INFO - Total Pages: 5 
+2024-05-04 12:19:16,604 - root - INFO - LinkedIn site loaded
+2024-05-04 12:19:18,034 - root - INFO - Sign in attempt
+2024-05-04 12:19:25,458 - root - INFO - Signed in successfully
+2024-05-04 12:19:26,665 - root - INFO - search query was sent
+2024-05-04 12:19:34,128 - root - INFO - Search Query was redirected to people category
+2024-05-04 12:19:58,567 - root - INFO - Connect Button was clicked
+2024-05-04 12:19:58,933 - root - INFO - Connect Button was clicked
+2024-05-04 12:19:59,235 - root - INFO - Connect Button was clicked
+2024-05-04 12:19:59,531 - root - INFO - Connect Button was clicked
+2024-05-04 12:20:29,685 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:21:02,808 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:21:34,261 - root - INFO - Connect Button was clicked
+2024-05-04 12:21:34,547 - root - INFO - Connect Button was clicked
+2024-05-04 12:21:34,812 - root - INFO - Connect Button was clicked
+2024-05-04 12:21:35,118 - root - INFO - Connect Button was clicked
+2024-05-04 12:21:35,424 - root - INFO - Connect Button was clicked
+2024-05-04 12:21:35,733 - root - INFO - Connect Button was clicked
+2024-05-04 12:22:05,929 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:22:38,561 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:23:01,055 - root - INFO - Connect Button was clicked
+2024-05-04 12:23:01,331 - root - INFO - Connect Button was clicked
+2024-05-04 12:23:01,624 - root - INFO - Connect Button was clicked
+2024-05-04 12:23:01,914 - root - INFO - Connect Button was clicked
+2024-05-04 12:23:32,073 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:23:32,251 - root - INFO - Total connects send were equal to 14
+2024-05-04 12:23:32,251 - root - INFO - Total Pages: 5 
+2024-05-04 12:27:52,033 - root - INFO - LinkedIn site loaded
+2024-05-04 12:27:52,853 - root - INFO - Sign in attempt
+2024-05-04 12:28:24,854 - root - INFO - Signed in successfully
+2024-05-04 12:28:31,352 - root - INFO - search query was sent
+2024-05-04 12:28:35,516 - root - INFO - Search Query was redirected to people category
+2024-05-04 12:28:54,207 - root - INFO - Connect Button was clicked
+2024-05-04 12:28:54,505 - root - INFO - Connect Button was clicked
+2024-05-04 12:28:54,799 - root - INFO - Connect Button was clicked
+2024-05-04 12:28:55,104 - root - INFO - Connect Button was clicked
+2024-05-04 12:28:55,554 - root - INFO - Connect Button was clicked
+2024-05-04 12:29:25,848 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:29:28,391 - root - INFO - Connect Button was clicked
+2024-05-04 12:29:28,695 - root - INFO - Connect Button was clicked
+2024-05-04 12:29:28,976 - root - INFO - Connect Button was clicked
+2024-05-04 12:29:29,402 - root - INFO - Connect Button was clicked
+2024-05-04 12:29:29,680 - root - INFO - Connect Button was clicked
+2024-05-04 12:29:30,053 - root - INFO - Connect Button was clicked
+2024-05-04 12:30:00,289 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:30:03,384 - root - INFO - Connect Button was clicked
+2024-05-04 12:30:03,731 - root - INFO - Connect Button was clicked
+2024-05-04 12:30:04,081 - root - INFO - Connect Button was clicked
+2024-05-04 12:30:34,367 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:30:47,039 - root - INFO - Connect Button was clicked
+2024-05-04 12:30:51,134 - root - INFO - Connect Button was clicked
+2024-05-04 12:30:55,226 - root - INFO - Connect Button was clicked
+2024-05-04 12:30:59,314 - root - INFO - Connect Button was clicked
+2024-05-04 12:31:31,335 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:31:34,105 - root - INFO - Total connects send were equal to 18
+2024-05-04 12:31:34,106 - root - INFO - Total Pages: 4 
+2024-05-04 12:32:25,371 - root - INFO - LinkedIn site loaded
+2024-05-04 12:32:26,736 - root - INFO - Sign in attempt
+2024-05-04 12:32:35,517 - root - INFO - Signed in successfully
+2024-05-04 12:32:36,370 - root - INFO - search query was sent
+2024-05-04 12:32:44,823 - root - INFO - Search Query was redirected to people category
+2024-05-04 12:32:48,912 - root - INFO - Connect Button was clicked
+2024-05-04 12:32:49,444 - root - INFO - Connect Button was clicked
+2024-05-04 12:32:50,054 - root - INFO - Connect Button was clicked
+2024-05-04 12:32:50,551 - root - INFO - Connect Button was clicked
+2024-05-04 12:33:20,759 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:33:24,412 - root - INFO - Connect Button was clicked
+2024-05-04 12:33:25,068 - root - INFO - Connect Button was clicked
+2024-05-04 12:33:26,590 - root - INFO - Connect Button was clicked
+2024-05-04 12:33:27,172 - root - INFO - Connect Button was clicked
+2024-05-04 12:33:57,439 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:34:00,912 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:02,216 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:03,539 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:05,023 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:06,304 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:06,987 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:37,157 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:34:40,394 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:41,686 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:43,042 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:44,469 - root - INFO - Connect Button was clicked
+2024-05-04 12:34:45,132 - root - INFO - Connect Button was clicked
+2024-05-04 12:35:15,459 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:35:15,860 - root - INFO - Total connects send were equal to 19
+2024-05-04 12:35:15,861 - root - INFO - Total Pages: 4 
+2024-05-04 12:38:25,341 - root - INFO - LinkedIn site loaded
+2024-05-04 12:38:26,896 - root - INFO - Sign in attempt
+2024-05-04 12:38:34,237 - root - INFO - Signed in successfully
+2024-05-04 12:38:35,272 - root - INFO - search query was sent
+2024-05-04 12:38:39,749 - root - INFO - Search Query was redirected to people category
+2024-05-04 12:38:42,447 - root - INFO - Connect Button was clicked
+2024-05-04 12:38:42,934 - root - INFO - Connect Button was clicked
+2024-05-04 12:38:44,124 - root - INFO - Connect Button was clicked
+2024-05-04 12:38:45,287 - root - INFO - Connect Button was clicked
+2024-05-04 12:39:15,416 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:39:17,852 - root - INFO - Connect Button was clicked
+2024-05-04 12:39:48,034 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-05-04 12:40:18,044 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:40:48,057 - root - ERROR - Exception Timeout 30000ms exceeded. occur when looping through people_containers, restart the bot increase the timeif problem persist
+2024-05-04 12:40:48,058 - root - INFO - Total connects send were equal to 5
+2024-05-04 12:40:48,058 - root - INFO - Total Pages: 2 
+2024-05-04 12:46:18,741 - root - INFO - LinkedIn site loaded
+2024-05-04 12:46:20,377 - root - INFO - Sign in attempt
+2024-05-04 12:46:30,319 - root - INFO - Signed in successfully
+2024-05-04 12:46:31,113 - root - INFO - search query was sent
+2024-05-04 12:46:38,010 - root - INFO - Search Query was redirected to people category
+2024-05-04 12:46:41,495 - root - INFO - Connect Button was clicked
+2024-05-04 12:46:42,742 - root - INFO - Connect Button was clicked
+2024-05-04 12:46:43,904 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:14,086 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:47:17,859 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:18,303 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:19,597 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:20,916 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:21,435 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:51,587 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:47:55,220 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:56,401 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:57,593 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:58,798 - root - INFO - Connect Button was clicked
+2024-05-04 12:47:59,338 - root - INFO - Connect Button was clicked
+2024-05-04 12:48:29,548 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:48:33,199 - root - INFO - Connect Button was clicked
+2024-05-04 12:48:34,413 - root - INFO - Connect Button was clicked
+2024-05-04 12:48:35,674 - root - INFO - Connect Button was clicked
+2024-05-04 12:48:36,892 - root - INFO - Connect Button was clicked
+2024-05-04 12:49:06,912 - root - ERROR - Connect button was not clickable !, this error could occur if the element is not founded.
+2024-05-04 12:49:07,494 - root - INFO - Connect Button was clicked
+2024-05-04 12:49:08,023 - root - INFO - Connect Button was clicked
+2024-05-04 12:49:38,288 - root - ERROR - Excepion Timeout 30000ms exceeded. occur in main loop
+2024-05-04 12:49:38,491 - root - INFO - Total connects send were equal to 18
+2024-05-04 12:49:38,491 - root - INFO - Total Pages: 4 

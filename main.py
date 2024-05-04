@@ -2,7 +2,7 @@ import asyncio
 import logging
 from playwright.async_api import async_playwright
 class Networking_Bot:
-    def __init__(self, username, password, search, maximum_pages=5, headless= True, sign_in_time=30000):
+    def __init__(self, username, password, search, maximum_pages=5, headless= True, sign_in_time=30000,default_time=30000):
         self.url = 'https://www.linkedin.com/login'
         self.username = username
         self.password = password
@@ -10,6 +10,7 @@ class Networking_Bot:
         self.maximum_pages = maximum_pages
         self.headless = headless
         self.sign_in_time = sign_in_time
+        self.time = default_time
         logging.basicConfig(
             filename='networkinglogs.log',
             filemode='a',
@@ -45,7 +46,7 @@ class Networking_Bot:
                 await page.locator('xpath=//input[@class="search-global-typeahead__input"]').press(key="Enter")
                 logging.info('search query was sent')
 
-                await page.locator('xpath=(//li[@class="search-reusables__primary-filter"]/button)[1]').click(timeout=30000)
+                await page.locator('xpath=(//li[@class="search-reusables__primary-filter"]/button)[1]').click(timeout=self.time)
 
                 logging.info(msg="Search Query was redirected to people category")
                 i = 0
@@ -59,7 +60,7 @@ class Networking_Bot:
                     try:
                         await page.wait_for_selector('xpath=//button[@class="artdeco-button artdeco-button--2 artdeco-button--secondary ember-view"]')
                         people_container = await page.locator('xpath=//button[@class="artdeco-button artdeco-button--2 artdeco-button--secondary ember-view"]').all()
-                        await page.mouse.wheel(0,500)
+                        await page.keyboard.down('End')
                         next_btn = await page.locator('xpath=//button[@aria-label="Next"]').scroll_into_view_if_needed()
                         # Main If:
                         if await page.locator('xpath=//button[@aria-label="Next"]').text_content() == '1':
@@ -68,7 +69,7 @@ class Networking_Bot:
                                 connect = await  contact.text_content()
                                 if connect.strip().lower() == 'connect':
                                     try:
-                                        await contact.click(timeout=30000)
+                                        await contact.click(timeout=self.time)
                                         logging.info('Connect Button was clicked')
                                         await page.locator('xpath=//button[@aria-label="Send without a note"]').click()
                                         i += 1
@@ -79,10 +80,11 @@ class Networking_Bot:
                         else:
                            for contact in people_container:
                                connect = await  contact.text_content()
+                               await page.keyboard.down('End')
                                next_btn = page.locator('xpath=//button[@aria-label="Next"]')
                                if connect.strip().lower() == 'connect':
                                    try:
-                                       await contact.click(timeout=30000)
+                                       await contact.click(timeout=self.time)
                                        logging.info('Connect Button was clicked')
                                        await page.locator('xpath=//button[@aria-label="Send without a note"]').click()
                                        i += 1
@@ -122,8 +124,9 @@ async def main():
         password=password,
         search=searh,
         maximum_pages=4,
-        headless= False,
-        sign_in_time=50000
+        headless= True,
+        sign_in_time=50000,
+        default_time= 50000
     )
     await app.authenticate_linkedin()
 asyncio.run(main())
