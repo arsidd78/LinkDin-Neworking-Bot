@@ -16,7 +16,7 @@ class Networking_Bot:
             filemode='a',
             level=logging.INFO,
             format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-        )
+        ) # The logging will help you track the program
     async def authenticate_linkedin(self):
         print('Initiated wait .............')
         async with async_playwright() as playwright:
@@ -114,11 +114,13 @@ class Networking_Bot:
                 logging.info(f'Total connects send were equal to {i}')
                 logging.info(f'Total Pages: {number_of_pages} ')
                 await browser.close()
-                print('Completed .......')
-async def main():
-    username = input('Type your email or username : ')
-    password = input('Type password : ')
-    searh = input('Search : ')
+                print('Completed .......') # The program code ends here after this a user
+                                           # can edit the execution and parameters in anyway.
+
+async def main(): # This function is to run the program this can be changed according to your needs.
+    username = input('Type your email or username : ') # This is the username parameter that is required in the bot
+    password = input('Type password : ') # Over here you can type your password import it, or just leave it like this
+    searh = input('Search : ') # This is the search query parameter in Networking class.
     app = Networking_Bot(
         username=username,
         password=password,
